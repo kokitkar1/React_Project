@@ -1,5 +1,5 @@
 import React from 'react';
-import Resturant from './component/Basics/Resturant';
+import Restaurant from './component/Basics/Restaurant';
 // import UseState from './component/Hooks/useState';
 // import UseEffect from './component/Hooks/useEffect';
 // import UseReducer from './component/Hooks/useReducer';
@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
     <div>
-      <Resturant/>
+      <Restaurant/>
     </div>
     {/* <div>
       <UseState/>
